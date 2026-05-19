@@ -1,0 +1,4 @@
+﻿"EncounterID,PatientID,ProviderID,DepartmentID,EncounterDate,EncounterType,LengthOfStay,Status"
+"1,101,501,301,2024-01-01,Inpatient,3,Completed"
+"2,102,502,302,2024-01-02,Outpatient,1,Completed"
+"3,103,503,301,2024-01-02,Clinic,0,NoShow"
